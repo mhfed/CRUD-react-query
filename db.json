@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1 updated",
+      "price": 100
+    },
+    {
+      "name": "Chanh day",
+      "price": 2,
+      "id": 2
+    },
+    {
+      "name": "chanh 123 updated",
+      "price": 1000,
+      "id": 3
+    },
+    {
+      "name": "Đi chơi",
+      "price": 123,
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "email": "hieunmph17303@fpt.edu.vn",
+      "password": "$2a$10$.hCfeDtuIkhB5YHWo61xwek62tVmb/dLg3VVwatWJDWNuJ5AHjLUO",
+      "id": 1
+    }
+  ]
+}
